@@ -1,0 +1,14 @@
+{
+ "versions": [
+  {
+   "version": "1.0",
+   "date": "2026-10-07",
+   "new": [
+    "Upload your own contract templates on the Contracts page, and your surplus templates on a lead's Surplus box.",
+    "The app tells you when an update is ready and lists what's new. Nothing changes until you approve it.",
+    "Surplus templates can now use [[owners]] and [[company_address]], for a Letter of Direction to the clerk.",
+    "Upload your signature in Settings > Business, then tick \"Sign with my signature\" to print it on your line of the contracts and surplus forms. Leave it unticked to sign in person."
+   ]
+  }
+ ]
+}
