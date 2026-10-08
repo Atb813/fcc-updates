@@ -1,12 +1,51 @@
 {
  "versions": [
   {
+   "version": "1.1",
+   "date": "2026-10-07",
+   "new": [
+    "Upload your own contract and surplus templates (Contracts page and a lead's Surplus box).",
+    "Sign with a picture of your signature: upload it in Settings > Business, then tick \"Sign with my signature\" when you make contracts or surplus paperwork.",
+    "Surplus paperwork: fill your claim forms, the Florida 45.033 disclosure, an owner letter and a Letter of Direction to the clerk. You'll see a red \"claim by\" date when fewer than 60 days are left.",
+    "Surplus funds: a box on each lead page, a list of sales that sold above the judgment, estimated surplus on Today and its own Pipeline board.",
+    "Property appraiser lookup on the lead page, plus a better check for absentee owners.",
+    "Probate: a filter on All active leads, the personal representative greeted by name in call scripts and texts, and two-word last names read in the right order.",
+    "Pipeline boards per category (Probate, Surplus funds, Subject-To), each with its own stages, plus a next action on every card.",
+    "Next best action on each lead page and a morning game plan on Today.",
+    "Morning \"What changed\" nudge, a \"Call first\" list and Remind me on leads.",
+    "Replies: replies sorted by kind, a one-click follow-up (Not now \u2192 30 days), a text to your cell when someone says yes, and delivery results.",
+    "Relatives and phones: import a relatives report, matched by Entity ID, with a Phone Score cut-off.",
+    "Text sent marks and iPhone/Twilio buttons. A confirmed text moves the surplus card to Contacted.",
+    "A setup dot in the Settings menu shows which sections still need filling in.",
+    "The app checks every few days for updates and shows what's new. Nothing changes until you approve it.",
+    "Better iPhone layouts, clearer wording and Spanish for everything new."
+   ],
+   "new_es": [
+    "Suba sus propias plantillas de contratos y de excedentes (p\u00e1gina de Contratos y el cuadro de Excedentes de cada prospecto).",
+    "Firme con una imagen de su firma: s\u00fabala en Ajustes > Negocio y marque \"Firmar con mi firma\" al preparar contratos o documentos de excedentes.",
+    "Documentos de excedentes: llene sus formularios de reclamo, la divulgaci\u00f3n de Florida 45.033, una carta al propietario y una Carta de Instrucci\u00f3n al secretario del tribunal. Ver\u00e1 en rojo la fecha l\u00edmite del reclamo cuando falten menos de 60 d\u00edas.",
+    "Fondos excedentes: un cuadro en la p\u00e1gina de cada prospecto, una lista de ventas por encima del fallo, el excedente estimado en Hoy y su propio tablero en Embudo.",
+    "B\u00fasqueda en el tasador de propiedades desde la p\u00e1gina del prospecto y mejor detecci\u00f3n de propietarios ausentes.",
+    "Sucesiones: un filtro en Todos los leads activos, saludo por nombre al representante personal en guiones de llamada y textos, y apellidos compuestos le\u00eddos en el orden correcto.",
+    "Tableros de Embudo por categor\u00eda (Sucesiones, Fondos excedentes, Subject-To), cada uno con sus propias etapas, y una pr\u00f3xima acci\u00f3n en cada tarjeta.",
+    "La mejor pr\u00f3xima acci\u00f3n en la p\u00e1gina de cada prospecto y un plan de la ma\u00f1ana en Hoy.",
+    "Aviso matutino de \"Qu\u00e9 cambi\u00f3\", una lista de \"Llamar primero\" y Recordarme en los prospectos.",
+    "Respuestas: ordenadas por tipo, seguimiento con un clic (Ahora no \u2192 30 d\u00edas), un texto a su celular cuando alguien dice que s\u00ed, y resultados de entrega.",
+    "Familiares y tel\u00e9fonos: importe un informe de familiares, enlazado por Entity ID, con un l\u00edmite de Phone Score.",
+    "Marcas de texto enviado y botones de iPhone/Twilio. Un texto confirmado pasa la tarjeta de excedentes a Contactado.",
+    "Un punto de configuraci\u00f3n en el men\u00fa de Ajustes muestra qu\u00e9 secciones faltan por completar.",
+    "La aplicaci\u00f3n busca actualizaciones cada pocos d\u00edas y muestra las novedades. Nada cambia hasta que usted lo apruebe.",
+    "Mejor dise\u00f1o en iPhone, textos m\u00e1s claros y espa\u00f1ol para todo lo nuevo."
+   ]
+  },
+  {
    "version": "1.0",
    "date": "2026-10-07",
    "new": [
     "Upload your own contract templates on the Contracts page, and your surplus templates on a lead's Surplus box.",
     "The app tells you when an update is ready and lists what's new. Nothing changes until you approve it.",
     "Surplus templates can now use [[owners]] and [[company_address]], for a Letter of Direction to the clerk.",
+    "On the Settings page, the setup dot now shows in the menu at the top, next to each section that still needs filling in.",
     "Upload your signature in Settings > Business, then tick \"Sign with my signature\" to print it on your line of the contracts and surplus forms. Leave it unticked to sign in person."
    ]
   }
